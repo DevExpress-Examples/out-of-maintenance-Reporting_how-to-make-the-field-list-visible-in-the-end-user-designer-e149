@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/FieldListFront/Form1.cs) (VB: [Form1.vb](./VB/FieldListFront/Form1.vb))
+<!-- default file list end -->
 # How to make the Field List visible in the End-User Designer
 
 
